@@ -6,6 +6,7 @@ python module
 ### in the folder 
 python ./concat.py 
 
+
 ### check the concat
 
-pyton 
+pyton ./readlines.py
